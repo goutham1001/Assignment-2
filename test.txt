@@ -1,2 +1,3 @@
 this is test file
 new line added to test
+3rd line added to test
